@@ -1,4 +1,4 @@
-import { CONFIG } from "../../../shared/config";
+import { CONFIG } from "@/shared/config";
 
 export function HomePage() {
     return (<div>
